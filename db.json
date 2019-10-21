@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "created_at": "2019-10-21T07:19:43.000Z",
+      "title": "New Kid on the Web: A Study on the Prevalence of WebAssembly in the Wild [pdf]",
+      "url": "https://www.tu-braunschweig.de/Medien-DB/ias/pubs/2019-dimva.pdf",
+      "author": "ColinEberhardt",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571642383,
+      "_tags": [
+        "story",
+        "author_ColinEberhardt",
+        "story_21309998"
+      ],
+      "objectID": "21309998",
+      "_highlightResult": {
+        "title": {
+          "value": "New Kid on the Web: A Study on the Prevalence of WebAssembly in the Wild [pdf]",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.tu-braunschweig.de/Medien-DB/ias/pubs/2019-dimva.pdf",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "ColinEberhardt",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
